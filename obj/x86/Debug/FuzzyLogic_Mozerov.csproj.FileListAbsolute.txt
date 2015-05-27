@@ -1,0 +1,8 @@
+C:\Users\imozerov\Downloads\FuzzyLogic\obj\x86\Debug\FuzzyLogic_Mozerov.MainForm.resources
+C:\Users\imozerov\Downloads\FuzzyLogic\obj\x86\Debug\FuzzyLogic_Mozerov.Properties.Resources.resources
+C:\Users\imozerov\Downloads\FuzzyLogic\obj\x86\Debug\FuzzyLogic_Mozerov.csproj.GenerateResource.Cache
+C:\Users\imozerov\Downloads\FuzzyLogic\obj\x86\Debug\FuzzyLogic_Mozerov.csprojResolveAssemblyReference.cache
+C:\Users\imozerov\Downloads\FuzzyLogic\bin\Debug\FuzzyLogic_Mozerov.exe
+C:\Users\imozerov\Downloads\FuzzyLogic\bin\Debug\FuzzyLogic_Mozerov.pdb
+C:\Users\imozerov\Downloads\FuzzyLogic\obj\x86\Debug\FuzzyLogic_Mozerov.exe
+C:\Users\imozerov\Downloads\FuzzyLogic\obj\x86\Debug\FuzzyLogic_Mozerov.pdb
